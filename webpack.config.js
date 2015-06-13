@@ -1,10 +1,10 @@
 module.exports = {
     context: __dirname,
     entry: {
-        index: './lib/app.js'
+        app: './lib/app.js'
     },
     output: {
-        path: __dirname + '/static',
+        path: __dirname + '/static/js',
         filename: '[name].js'
     },
     module: {

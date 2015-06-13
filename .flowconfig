@@ -1,0 +1,11 @@
+[ignore]
+.*/flow-bin/.*
+.*/es6-promise/.*
+.*/webpack/.*
+static/.*
+
+[include]
+
+[libs]
+
+[options]
