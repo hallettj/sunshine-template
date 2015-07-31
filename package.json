@@ -25,13 +25,14 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "babel-loader": "git://github.com/babel/babel-loader",
-    "flow-bin": "^0.12.0",
+    "flow-bin": "^0.14.0",
     "webpack": "^1.9.10"
   },
   "dependencies": {
-    "nanoscope": "^2.2.0",
+    "immutable": "^3.7.4",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
-    "sunshine": "git://github.com/hallettj/sunshine"
+    "sunshine": "hallettj/sunshine#master",
+    "lens": "hallettj/lens.js#master"
   }
 }

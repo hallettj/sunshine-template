@@ -7,5 +7,6 @@ static/.*
 [include]
 
 [libs]
+./node_modules/sunshine/lib/
 
 [options]
