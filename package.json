@@ -1,6 +1,6 @@
 {
   "name": "sunshine-template",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Clone this template to get started developing an app with SunshineJS",
   "homepage": "https://github.com/hallettj/sunshine-template",
   "repository": {
@@ -32,7 +32,7 @@
     "immutable": "^3.7.4",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
-    "safety-lens": "^1.0.1",
-    "sunshine-framework": "^1.2.0"
+    "safety-lens": "^1.0.2",
+    "sunshine-framework": "^1.2.1"
   }
 }
